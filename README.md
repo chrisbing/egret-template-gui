@@ -1,5 +1,5 @@
 # egret-template
-Template of egret (without gui)
+Template of egret (gui)
 
 ## usage
 
